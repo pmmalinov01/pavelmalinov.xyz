@@ -1,6 +1,29 @@
 baseURL = "https://pavelmalinov.xyz"
 languageCode = "en-us"
 title = "Pavel Blog"
-theme = "risotto"
+theme = "hugo-theme-shell"
 relativeURLs = true
 uglyURLs = true
+
+[Params.Terminal]
+scheme = "GruvboxDark"
+
+userName = "me"
+pcName   = "localhost"
+workDir  = "home"
+
+
+ps1Delay = 0
+
+description = """
+Hi I am Pavel Malinov!
+"""
+
+[Params.Tree]
+use = true
+folderName = "my_activity"
+# Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
+files = [ 
+  ["Hugo", "/post/sloth.md"],
+  ["Docker", "/post/some-activity.md"],
+]
