@@ -1,0 +1,6 @@
+baseURL = "https://pavelmalinov.xyz"
+languageCode = "en-us"
+title = "Pavel Blog"
+theme = "risotto"
+relativeURLs = true
+uglyURLs = true
