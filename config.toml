@@ -48,11 +48,11 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "Pavel Blog"
     subtitle = "A simple, retro theme for Hugo"
     owner = "Pavel Malinov"
     keywords = "Learning"
-    copyright = "WhoCares?"
+    copyright = "NoCopyRight"
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
