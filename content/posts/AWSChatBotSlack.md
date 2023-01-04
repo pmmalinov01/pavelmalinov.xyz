@@ -1,7 +1,7 @@
 ---
 title: "AWS ChatBot and Slack for notifications from AWS CodePipeline"
 date: 2023-01-04T13:38:51+02:00
-tags: ["learning", "Work"]
+tags: ["learning", "Work", "AWS", "Slack", "CodePipeline"]
 authorTwitter: "pmmalinov01" 
 author: "Pavel Malinov"
 categories: ["AWS", "Slack", "CodePipeline"]
